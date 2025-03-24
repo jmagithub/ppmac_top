@@ -196,3 +196,4 @@ record(stringout, "$(P)$(M):HOMEVISSTR")
 	field(VAL, "$(HOMEVISSTR=Use motor summary screen)")
 }
 
+
