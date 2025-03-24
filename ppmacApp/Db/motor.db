@@ -196,4 +196,4 @@ record(stringout, "$(P)$(M):HOMEVISSTR")
 	field(VAL, "$(HOMEVISSTR=Use motor summary screen)")
 }
 
-
+# This is the end of motor.db 
